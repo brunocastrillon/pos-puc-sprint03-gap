@@ -14,7 +14,7 @@ O objetivo do trabalho foi aplicar os conceitos de **Gestão Ágil de Projetos e
 
 ## 📂 Estrutura do Repositório
 
-- **[`Product Backlog`]([./Product%20Backlog](https://github.com/brunocastrillon/pos-puc-sprint03-gap/blob/master/product-backlog.pdf))**  
+- **[`Product Backlog`]([./Product%20Backlog]https://github.com/brunocastrillon/pos-puc-sprint03-gap/blob/master/product-backlog.pdf)**  
   Documento estruturado com épicos, features, histórias de usuário e enablers, incluindo **Definition of Ready (DoR)** e **Definition of Done (DoD)**.
 
 - **[`Sprint Backlog`]([./Sprint%20Backlog](https://github.com/brunocastrillon/pos-puc-sprint03-gap/blob/master/sprint-backlog.pdf))**  
