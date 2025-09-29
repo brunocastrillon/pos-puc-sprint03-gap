@@ -20,7 +20,7 @@ O objetivo do trabalho foi aplicar os conceitos de **Gestão Ágil de Projetos e
 - **[`Sprint Backlog`](https://github.com/brunocastrillon/pos-puc-sprint03-gap/blob/master/sprint-backlog.pdf)**  
   Planejamento detalhado das três primeiras sprints (histórias priorizadas, critérios BDD e estimativas em story points).
 
-- **[`wireframes/wireframe-sprint01.png`](github.com/brunocastrillon/pos-puc-sprint03-gap/blob/master/wireframes/wireframe-sprint%2001.png)**  
+- **[`wireframes/wireframe-sprint01.png`](https://github.com/brunocastrillon/pos-puc-sprint03-gap/blob/master/wireframes/wireframe-sprint%2001.png)**  
   Wireframe de baixa fidelidade referente à **Sprint 01 (Cadastro/Login + Perfil do Especialista)**.
 
 - **[`canvas-url.txt`](https://github.com/brunocastrillon/pos-puc-sprint03-gap/blob/master/canvas-url.txt)**  
