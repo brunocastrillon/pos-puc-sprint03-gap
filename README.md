@@ -14,16 +14,16 @@ O objetivo do trabalho foi aplicar os conceitos de **Gestão Ágil de Projetos e
 
 ## 📂 Estrutura do Repositório
 
-- **[`Product Backlog`](./Product%20Backlog)**  
+- **[`Product Backlog`]([./Product%20Backlog](https://github.com/brunocastrillon/pos-puc-sprint03-gap/blob/master/product-backlog.pdf))**  
   Documento estruturado com épicos, features, histórias de usuário e enablers, incluindo **Definition of Ready (DoR)** e **Definition of Done (DoD)**.
 
-- **[`Sprint Backlog`](./Sprint%20Backlog)**  
+- **[`Sprint Backlog`]([./Sprint%20Backlog](https://github.com/brunocastrillon/pos-puc-sprint03-gap/blob/master/sprint-backlog.pdf))**  
   Planejamento detalhado das três primeiras sprints (histórias priorizadas, critérios BDD e estimativas em story points).
 
-- **[`wireframes/wireframe-sprint01.png`](./wireframes/wireframe-sprint01.png)**  
+- **[`wireframes/wireframe-sprint01.png`](./wireframes/wireframe-sprint01.pnghttps://github.com/brunocastrillon/pos-puc-sprint03-gap/blob/master/wireframes/wireframe-sprint%2001.png)**  
   Wireframe de baixa fidelidade referente à **Sprint 01 (Cadastro/Login + Perfil do Especialista)**.
 
-- **[`canvas-url.txt`](./canvas-url.txt)**  
+- **[`canvas-url.txt`]([./canvas-url.txt](https://github.com/brunocastrillon/pos-puc-sprint03-gap/blob/master/canvas-url.txt))**  
   Arquivo contendo a URL do **MVP Canvas do SkillMatch** no Miro.  
   🔗 [Acessar Canvas no Miro](https://miro.com/app/board/uXjVJKuJfJs=/?share_link_id=791216612941)
 
